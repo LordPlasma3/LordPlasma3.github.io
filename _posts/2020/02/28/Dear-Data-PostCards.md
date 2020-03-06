@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Oscar Vaughn, Digital Humanities Work
+title: Dear Data PostCards
 ---
-
+Oscar Vaughn, Digital Humanities 
 Dear Data Postcard:
 ![Dear Data Postcard Front](https://raw.githubusercontent.com/LordPlasma3/lordplasma3.github.io/master/images/Dear%20Data%20Front.png)
 ![Dear Data Postcard Back](https://raw.githubusercontent.com/LordPlasma3/lordplasma3.github.io/master/images/Dear%20Data%20Front.png)
