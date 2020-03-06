@@ -4,8 +4,8 @@ title: Oscar Vaughn, Digital Humanities Work
 ---
 
 Dear Data Postcard:
-![Dear Data Postcard Front](https://github.com/LordPlasma3/lordplasma3.github.io/blob/master/images/Dear%20Data%20Front.png)
-![Dear Data Postcard Back](https://github.com/LordPlasma3/lordplasma3.github.io/blob/master/images/Dear%20Data%20Back.png)
+![Dear Data Postcard Front](https://raw.githubusercontent.com/LordPlasma3/lordplasma3.github.io/master/images/Dear%20Data%20Front.png)
+![Dear Data Postcard Back](https://raw.githubusercontent.com/LordPlasma3/lordplasma3.github.io/master/images/Dear%20Data%20Front.png)
 
 Tool Review 1:Voyant
 Trends Graph doesn't seem to have an order for the X axis-The years aren't by the order in the folder [Number and thus chronological], and while you can upload individual items, you 
